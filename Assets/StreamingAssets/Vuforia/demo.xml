@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="raf750x1000075t101010_01c5ca27c6" size="1.000000 1.333333" />
+    <ImageTarget name="478f28d361b20eef618675d4ef4901c0" size="1.000000 1.000000" />
+    <ImageTarget name="gvc46w6b_400x400" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
